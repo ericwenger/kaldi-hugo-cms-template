@@ -90,13 +90,19 @@ pricing:
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: '81'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '?'
+      price: 99+
+    - description: It's the "all you can eat" type of plan for the real coffee snobs
+      items:
+        - An unlimited supply for the high octane office environment
+      plan: Mega
+      price: $199+
 ---
+
 
